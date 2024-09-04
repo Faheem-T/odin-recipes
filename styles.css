@@ -1,0 +1,43 @@
+* {
+    /* margin: 0;
+    padding: 0; */
+    box-sizing: border-box;
+}
+
+body {
+    background-color: brown;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    border-radius: 25px;
+}
+
+.container {
+    background-color: orange;
+    width: 80vw;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.recipe-content {
+    text-align: center;
+}
+
+.recipes {
+    /* background-color: black; */
+    /* text-align: center; */
+    display: inline-block;
+    text-align: left;
+}
+
+.img-div {
+    text-align: center;
+}
+
+img {
+    border-radius: 25px;
+}
